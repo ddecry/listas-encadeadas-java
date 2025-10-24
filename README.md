@@ -143,4 +143,4 @@ Este projeto demonstra o funcionamento das **estruturas encadeadas fundamentais*
 ## 📽️ Demonstração em Vídeo
 
 🎥 Assista ao vídeo explicativo no YouTube:  
-👉 [https://youtu.be/i3PrGEXusyE](https://youtu.be/i3PrGEXusyE)
+👉 [https://youtu.be/pluprDYkDnI](https://youtu.be/pluprDYkDnI)
