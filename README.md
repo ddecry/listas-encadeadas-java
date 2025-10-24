@@ -59,8 +59,7 @@ Na **lista circular**, o último nó aponta novamente para o primeiro, formando 
 
 **Representação:**
 ```
-[10] → [20] → [30] ↘
-   ↑───────────────↙
+[10] → [20] → [30]
 ```
 
 📸 **Print de execução:**  
