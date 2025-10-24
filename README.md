@@ -130,13 +130,13 @@ Este projeto demonstra o funcionamento das **estruturas encadeadas fundamentais*
 ## 📷 Prints de Execução
 
 ### Lista Simples
-![Lista Simples - Print](Screenshots/Lista_Simples.png)
+![Lista Simples - Print](Screenshots/Lista_Simples.jpg)
 
 ### Lista Dupla
-![Lista Dupla - Print](Screenshots/Lista_Dupla.png)
+![Lista Dupla - Print](Screenshots/Lista_Dupla.jpg)
 
 ### Lista Circular
-![Lista Circular - Print](Screenshots/Lista_Circular.png)
+![Lista Circular - Print](Screenshots/Lista_Circular.jpg)
 
 ---
 
