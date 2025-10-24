@@ -22,10 +22,6 @@ Permite percorrer os elementos **em uma única direção**.
 [10] → [20] → [30] → null
 ```
 
-📸 **Print de execução:**  
-👉 *(adicione aqui o link da imagem)*  
-[Link da execução da Lista Simples]()
-
 ---
 
 ### 🔹 2. Lista Duplamente Encadeada (`ListaDupla`)
@@ -42,10 +38,6 @@ Na **lista dupla**, cada nó contém ponteiros para o **próximo e o anterior**,
 null ← [10] ⇄ [20] ⇄ [30] → null
 ```
 
-📸 **Print de execução:**  
-👉 *(adicione aqui o link da imagem)*  
-[Link da execução da Lista Dupla]()
-
 ---
 
 ### 🔹 3. Lista Encadeada Circular (`ListaCircular`)
@@ -61,10 +53,6 @@ Na **lista circular**, o último nó aponta novamente para o primeiro, formando 
 ```
 [10] → [20] → [30]
 ```
-
-📸 **Print de execução:**  
-👉 *(adicione aqui o link da imagem)*  
-[Link da execução da Lista Circular]()
 
 ---
 
