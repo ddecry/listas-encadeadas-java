@@ -127,6 +127,19 @@ Este projeto demonstra o funcionamento das **estruturas encadeadas fundamentais*
 
 ---
 
+## 📷 Prints de Execução
+
+### Lista Simples
+![Lista Simples - Print](Screenshots/Lista_Simples.png)
+
+### Lista Dupla
+![Lista Dupla - Print](Screenshots/Lista_Dupla.png)
+
+### Lista Circular
+![Lista Circular - Print](Screenshots/Lista_Circular.png)
+
+---
+
 ## 📽️ Demonstração em Vídeo
 
 🎥 Assista ao vídeo explicativo no YouTube:  
